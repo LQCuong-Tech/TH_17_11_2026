@@ -10,7 +10,7 @@
 
 ## MỤC ẢNH KẾT QUẢ CHỨC NĂNG
 ### 1. Màn hình Chính / Tổng quan hệ thống:
-![Màn hình chính](images/UI_Main.png)
+![Màn hình chính](images/UI.png)
 
 ### 2. Màn hình Quản lý Danh mục (CRUD - Thêm/Sửa/Xóa):
 ![Màn hình CRUD](images/CRUD1.png)
